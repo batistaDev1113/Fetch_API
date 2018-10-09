@@ -1,0 +1,2 @@
+Hello, I am a simple text being extracted from a Json file.
+How are you today?
